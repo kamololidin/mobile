@@ -1,0 +1,178 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+width: 1240px;
+margin-left: auto;
+margin-right: auto;
+padding: 0 20px;
+}
+.div{
+display: flex;
+align-items: center;
+}
+.pik{
+color: #172B87;
+margin-left: 11px;
+}
+.carr{
+width: 670px;
+font-weight: 700;
+font-size: 100px;
+line-height: 120px;
+letter-spacing: 0.01em;
+color: #0C0507;
+margin-top: 100px;
+}
+.screen{
+font-weight: 700;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #0C0507;
+margin-top: 100px;
+margin-left: -460px;
+}
+.tel-img{
+margin-left: -140px;
+}
+.head-k{
+display: flex;
+align-items: center;
+}
+.tel2-img{
+margin-top: 240px;
+}
+.tel3-img{
+margin-top: 50px;
+}
+.lic{
+width: 465px;
+font-weight: 700;
+font-size: 48px;
+line-height: 143%;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+margin-top: 100px;
+margin-left: 62px;
+}
+.layer-img{
+margin-top: 100px;
+margin-left: 469px;
+}
+.modal{
+width: 1349px;
+background: #1A202C;
+}
+.gal-img{
+margin-top: 76px;
+margin-left: 66px;
+}
+.use{
+font-weight: 500;
+font-size: 24px;
+line-height: 125%;
+color: #F3F5F7;
+margin-top: 73px;
+margin-left: 16px;
+}
+.gal2-img{
+margin-top: 28px;
+margin-left: 66px;
+}
+.use2{
+font-weight: 500;
+font-size: 24px;
+line-height: 125%;
+color: #F3F5F7;
+margin-top: 26px;
+margin-left: 16px;
+}
+.chiziq{
+width: 1000px;
+height: 2px;
+border: 1px solid rgba(227, 231, 239, 0.2);
+margin-top: 65px;
+margin-left: 62px;
+}
+.have{
+width: 597px;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+margin-top: 64px;
+margin-left: 62px;
+}
+.get-f{
+font-weight: 700;
+font-size: 48px;
+line-height: 143%;
+letter-spacing: -0.02em;
+text-decoration-line: underline;
+color: #FFFFFF;
+margin-top: 88px;
+margin-left: 62px;
+}
+.tavba-img{
+margin-top: 64px;
+margin-left: 441px;
+}
+.follow{
+font-weight: 700;
+font-size: 32px;
+line-height: 135%;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+margin-top: 64px;
+margin-left: 62px;
+}
+.ui8-img{
+margin-top: 79px;
+margin-left: 152px;
+}
+.ui{
+font-weight: 600;
+font-size: 24px;
+line-height: 125%;
+text-decoration-line: underline;
+color: #FFFFFF;
+margin-top: 92px;
+margin-left: 25px;
+}
+.basket-img{
+margin-top: 75px;
+margin-left: 60px;
+}
+.drib{
+font-weight: 600;
+font-size: 24px;
+line-height: 125%;
+text-decoration-line: underline;
+color: #FFFFFF;
+margin-top: 92px;
+margin-left: 28px;
+}
+.insta-img{
+margin-top: 75px;
+margin-left: 60px;
+}
+.insta{
+font-weight: 600;
+font-size: 24px;
+line-height: 125%;
+text-decoration-line: underline;
+color: #FFFFFF;
+margin-top: 92px;
+margin-left: 30px;
+}
+.button{
+width: 150px;
+height: 50px;
+color: #172B87;
+font-size: 40px;
+}
